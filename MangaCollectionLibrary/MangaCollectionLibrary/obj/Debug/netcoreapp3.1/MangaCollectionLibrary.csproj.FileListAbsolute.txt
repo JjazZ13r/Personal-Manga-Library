@@ -1,0 +1,14 @@
+C:\Users\Student\workspace\Personal-Manga-Library\MangaCollectionLibrary\MangaCollectionLibrary\bin\Debug\netcoreapp3.1\MangaCollectionLibrary.exe
+C:\Users\Student\workspace\Personal-Manga-Library\MangaCollectionLibrary\MangaCollectionLibrary\bin\Debug\netcoreapp3.1\MangaCollectionLibrary.deps.json
+C:\Users\Student\workspace\Personal-Manga-Library\MangaCollectionLibrary\MangaCollectionLibrary\bin\Debug\netcoreapp3.1\MangaCollectionLibrary.runtimeconfig.json
+C:\Users\Student\workspace\Personal-Manga-Library\MangaCollectionLibrary\MangaCollectionLibrary\bin\Debug\netcoreapp3.1\MangaCollectionLibrary.runtimeconfig.dev.json
+C:\Users\Student\workspace\Personal-Manga-Library\MangaCollectionLibrary\MangaCollectionLibrary\bin\Debug\netcoreapp3.1\MangaCollectionLibrary.dll
+C:\Users\Student\workspace\Personal-Manga-Library\MangaCollectionLibrary\MangaCollectionLibrary\bin\Debug\netcoreapp3.1\MangaCollectionLibrary.pdb
+C:\Users\Student\workspace\Personal-Manga-Library\MangaCollectionLibrary\MangaCollectionLibrary\obj\Debug\netcoreapp3.1\MangaCollectionLibrary.csproj.AssemblyReference.cache
+C:\Users\Student\workspace\Personal-Manga-Library\MangaCollectionLibrary\MangaCollectionLibrary\obj\Debug\netcoreapp3.1\MangaCollectionLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\workspace\Personal-Manga-Library\MangaCollectionLibrary\MangaCollectionLibrary\obj\Debug\netcoreapp3.1\MangaCollectionLibrary.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\Personal-Manga-Library\MangaCollectionLibrary\MangaCollectionLibrary\obj\Debug\netcoreapp3.1\MangaCollectionLibrary.AssemblyInfo.cs
+C:\Users\Student\workspace\Personal-Manga-Library\MangaCollectionLibrary\MangaCollectionLibrary\obj\Debug\netcoreapp3.1\MangaCollectionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\Personal-Manga-Library\MangaCollectionLibrary\MangaCollectionLibrary\obj\Debug\netcoreapp3.1\MangaCollectionLibrary.dll
+C:\Users\Student\workspace\Personal-Manga-Library\MangaCollectionLibrary\MangaCollectionLibrary\obj\Debug\netcoreapp3.1\MangaCollectionLibrary.pdb
+C:\Users\Student\workspace\Personal-Manga-Library\MangaCollectionLibrary\MangaCollectionLibrary\obj\Debug\netcoreapp3.1\MangaCollectionLibrary.genruntimeconfig.cache

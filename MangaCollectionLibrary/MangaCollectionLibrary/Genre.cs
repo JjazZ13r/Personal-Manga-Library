@@ -4,8 +4,11 @@ using System.Text;
 
 namespace MangaCollectionLibrary
 {
-    public class Library
+    enum Genre
     {
-
+        Shonen,
+        Shojo,
+        Seinen,
+        Josei
     }
 }

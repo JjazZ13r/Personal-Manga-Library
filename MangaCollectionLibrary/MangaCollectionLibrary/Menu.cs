@@ -10,6 +10,7 @@ namespace MangaCollectionLibrary
         {
             Console.Title = "Manga Collection Record";
 
+
         }
     }
 }

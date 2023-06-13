@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZLR3DlsMXbfbF0XGnb+dFlhVjoGKHXMMOha6MP7gXdV33GEC/sSBzbPCHLLPG9mLGlkM/TFXcOajgIet6GYkjA==",
+  "dgSpecHash": "B90W1p10l0ExE3UjwgzZplhCUEFh/OS8oEiDKHrHhjpn2OnX2cYrsKzHlrKbiIb7A3BCuSsNAkxCxl7phkrPhQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Student\\workspace\\Personal-Manga-Library\\MangaCollectionLibrary\\MangaCollectionLibrary\\MangaCollectionLibrary.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Student\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\jmcav\\workspace\\Personal-Manga-Library\\MangaCollectionLibrary\\MangaCollectionLibrary\\MangaCollectionLibrary.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

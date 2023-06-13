@@ -8,19 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Student\\.nuget\\packages\\": {}
+    "C:\\Users\\jmcav\\.nuget\\packages\\": {},
+    "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Student\\workspace\\Personal-Manga-Library\\MangaCollectionLibrary\\MangaCollectionLibrary\\MangaCollectionLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\jmcav\\workspace\\Personal-Manga-Library\\MangaCollectionLibrary\\MangaCollectionLibrary\\MangaCollectionLibrary.csproj",
       "projectName": "MangaCollectionLibrary",
-      "projectPath": "C:\\Users\\Student\\workspace\\Personal-Manga-Library\\MangaCollectionLibrary\\MangaCollectionLibrary\\MangaCollectionLibrary.csproj",
-      "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Student\\workspace\\Personal-Manga-Library\\MangaCollectionLibrary\\MangaCollectionLibrary\\obj\\",
+      "projectPath": "C:\\Users\\jmcav\\workspace\\Personal-Manga-Library\\MangaCollectionLibrary\\MangaCollectionLibrary\\MangaCollectionLibrary.csproj",
+      "packagesPath": "C:\\Users\\jmcav\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jmcav\\workspace\\Personal-Manga-Library\\MangaCollectionLibrary\\MangaCollectionLibrary\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jmcav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -56,18 +62,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.32, 3.1.32]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
